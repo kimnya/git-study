@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+=======
+@charset "utf-8";
+
+#wrap {
+	> header {
+		position: relative;
+		height: 800px;
+		background-color: #5f0080;
+		> .logo {
+			position: absolute;
+			left: 50%;
+			top: 88px;
+			width: 193px;
+			background-image: url(./../images/logo.png);
+			transform: translate(-50%, 0);
+			> a {
+				text-indent: -9999px;
+				display: block;
+				height: 111px;
+			}
+		}
+	} //end header
+} //end #wrap
+>>>>>>> feature/visual

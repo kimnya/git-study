@@ -14,3 +14,6 @@
    git config --global user.email "ymca582@icloud.com"
 
    4. 5.현재 로컬 저장소의 git 현황/상태 보기
+
+      6.Base 브랜치에 실험브랜치를 병합(병합후 실험브랜치를 반드시 삭제)
+      git merge 실험브랜치
